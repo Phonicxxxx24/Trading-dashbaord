@@ -1180,7 +1180,7 @@ const AnalyticsView = () => {
             <p className="text-gray-500 text-sm">Transparent breakdown of how we calculate PnL, Win Rate, and Risk Metrics.</p>
          </div>
          <a 
-            href="" 
+            href="https://peaceful-purpose-46f.notion.site/Deriverse-Trading-Analytics-Dashboard-Technical-Documentation-2ac0e1bb801680b5b567c8721c1ef25f?pvs=143" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-6 py-3 bg-[#222] hover:bg-[#333] border border-[#333] hover:border-orange-500/30 text-white rounded-xl text-sm font-bold transition-all group"
